@@ -14,7 +14,7 @@ def getNewDevice():
     return None
     
 
-
+ 
 #    for bdaddr in nearby_devices:
 #        print bluetooth.lookup_name(bdaddr)
 #    print nearby_devices
