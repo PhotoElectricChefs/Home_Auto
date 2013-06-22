@@ -1,0 +1,4 @@
+
+
+def newDeviceName():
+    return "newBtAutomation"
