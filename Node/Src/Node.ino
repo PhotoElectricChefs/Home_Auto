@@ -63,7 +63,7 @@ void Node_Init()
 //ping to master to be added
 }
 
-void Read_EEPROM();
+void Read_EEPROM()
 {
 	//TODO:add code here to read previous state from eeprom
 	S1.state = EEPROM.read(S1.addr);
